@@ -26,33 +26,50 @@ Evaluate model performance using error metrics
 
 
 📈 Results & Visualization
+
 The model successfully predicts house prices
+
 Lower MSE indicates better accuracy
+
 Area and location have the highest impact
 
 
 📊 Applications
+
 Real estate price estimation
+
 Property investment decisions
+
 Online property platforms
+
 Market analysis
 
 
 ✅ Advantages
+
 Simple and easy to implement
+
 Fast predictions
+
 Beginner-friendly
 
 
+
 ⚠️ Limitations
+
 Depends on dataset quality
+
 Cannot capture complex relationships
+
 Not suitable for highly non-linear data
 
 
 🚀 Future Scope
+
 Use advanced models (Random Forest, XGBoost)
+
 Add more features (age, amenities)
+
 Deploy as a web app using Streamlit
 
 
